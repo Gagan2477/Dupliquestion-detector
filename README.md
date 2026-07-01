@@ -89,8 +89,8 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 ## 👨‍💻 Author
 
 **Mohit Gunani**
-📧 [gunanimohit1221@gmail.com](mailto:gunanimohit1221@gmail.com)
-🔗 [GitHub: @mohit1221iitian](https://github.com/mohit1221iitian)
+📧 [gagan200629@gmail.com](mailto:gagan200629@gmail.com)
+🔗 [GitHub: @Gagan2477](https://github.com/Gagan2477))
 
 ---
 
